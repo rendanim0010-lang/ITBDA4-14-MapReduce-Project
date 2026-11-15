@@ -1,0 +1,15 @@
+# Maven build files
+target/
+
+# Hadoop generated output
+output/
+
+# IDE files
+.vscode/
+
+# macOS generated files
+.DS_Store
+__MACOSX/
+
+# Java compiled files
+*.class
